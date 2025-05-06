@@ -10,6 +10,6 @@ Arduino- Based Fire Detection and warning system using Flame Sensor with LCD Mon
 * LCD, Buzzer, and LED Warning
 
 ##### References
-[1] Garage Geek Guy, "How to use a 1602 i2c Serial LCD Display with Arduino," YouTube. Aug. 03, 2021. [Online]. Available: https://www.youtube.com/watch?v=BJ93XCcD858
+[1] Garage Geek Guy, "How to use a 1602 i2c Serial LCD Display with Arduino," YouTube. Aug. 03, 2021. [Online]. Available: https://www.youtube.com/watch?v=BJ93XCcD858 <br/>
 [2] Robojax, "Flame Sensor for Arduino with code," YouTube. Jan. 19, 2018. [Online]. Available: https://www.youtube.com/watch?v=OZkZIP3KlHQ
 
