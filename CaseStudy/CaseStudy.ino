@@ -40,6 +40,7 @@ void loop() {
 
       tone(buzzerPin, 440);
       digitalWrite(ledPin, HIGH);
+
     } else if(currentStateLft == 0) {
       lcd.clear();
       lcd.setCursor(0, 0);
@@ -48,6 +49,7 @@ void loop() {
 
       tone(buzzerPin, 440);
       digitalWrite(ledPin, HIGH);
+
     } else if(currentStateRgt == 0) {
       lcd.clear();
       lcd.setCursor(0, 0);
@@ -56,6 +58,7 @@ void loop() {
 
       tone(buzzerPin, 440);
       digitalWrite(ledPin, HIGH);
+      
     } else{
       lcd.clear();
       lcd.setCursor(0, 0);
